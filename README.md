@@ -24,3 +24,5 @@ API FAQ:
 https://www.themoviedb.org/faq/api
 
 Use your api key as value for the private static final String API_KEY in the NetworkUtils class ( line 15).
+
+Covered chapters: layout, image view, toggle button, text view, scroll view, recycler view, progress bar, SQLite, uri, cursor, adapters, arrays, intents, listeners, async task, json, view holder, url.
