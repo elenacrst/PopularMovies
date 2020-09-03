@@ -1,4 +1,4 @@
-Popular Movies
+
 
 <img src="http://i.imgur.com/249UVKa.jpg" width="200">  <img src="JBsMw9t.jpg" width="200">
 
